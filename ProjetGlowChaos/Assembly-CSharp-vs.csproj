@@ -46,18 +46,17 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\Environnement.cs" />
-     <Compile Include="Assets\Script\IA.cs" />
-     <Compile Include="Assets\Script\IA_Carre.cs" />
-     <Compile Include="Assets\Script\IA_ROND1.cs" />
-     <Compile Include="Assets\Script\IA_Rond.cs" />
-     <Compile Include="Assets\Script\Move.cs" />
-     <Compile Include="Assets\Script\MoveCellule.cs" />
-     <Compile Include="Assets\Script\MoveMac.cs" />
-     <Compile Include="Assets\Script\NbreCellule.cs" />
-     <Compile Include="Assets\Script\PopIA.cs" />
-     <Compile Include="Assets\Script\XboxControl.cs" />
-     <Compile Include="Assets\TestNavMesh\NavMeshCol.cs" />
+     <Compile Include="Assets\Script\Environnement\Environnement.cs" />
+     <Compile Include="Assets\Script\IA\IA.cs" />
+     <Compile Include="Assets\Script\IA\IA_Carre.cs" />
+     <Compile Include="Assets\Script\IA\IA_ROND1.cs" />
+     <Compile Include="Assets\Script\IA\IA_Rond.cs" />
+     <Compile Include="Assets\Script\IA\MoveCellule.cs" />
+     <Compile Include="Assets\Script\IA\PopIA.cs" />
+     <Compile Include="Assets\Script\Interface\NbreCellule.cs" />
+     <Compile Include="Assets\Script\Player\Dash.cs" />
+     <Compile Include="Assets\Script\Player\Move.cs" />
+     <Compile Include="Assets\Script\Player\MoveMac.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
