@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/NbreCellule.cs">
+    <Files>
+      <File FileName="Assets/Script/IA.cs" Line="40" Column="19" />
+      <File FileName="Assets/Script/NbreCellule.cs" Line="64" Column="21" />
+      <File FileName="Assets/Script/PopIA.cs" Line="34" Column="80" />
+      <File FileName="Assets/Script/MoveCellule.cs" Line="25" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
